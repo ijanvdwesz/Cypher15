@@ -10,7 +10,7 @@ body {
   align-items: center; /* Center items horizontally */
   justify-content: center; /* Center items vertically */
   font-family: Arial, sans-serif;
-  background-image: url("/Img/Backgound15.jpg");
+  background-image: url("Img/Background15.jpg");
   background-size: contain;
   background-position: center;
   color: #aef0f9;
