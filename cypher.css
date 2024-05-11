@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /*used to create flexbox in order to align my text and input fields using flex direction align-items and justify content*/
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center items horizontally */
+  justify-content: center; /* Center items vertically */
+  font-family: Arial, sans-serif;
+  background-image: url("/Img/Backgound15.jpg");
+  background-size: contain;
+  background-position: center;
+  color: #aef0f9;
+  line-height: 1.6;
+  padding: 20px;
+}
+/*using colors that contrast the background ...opposite in order to see it better  */
+h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+  color: aliceblue;
+}
+
+p {
+  color: antiquewhite;
+  margin-bottom: 15px;
+}
+/*just makes it bigger for you to type more*/
+.cypher-input {
+  width: 500px;
+  height: 150px;
+}
