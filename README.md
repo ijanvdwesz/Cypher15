@@ -14,7 +14,7 @@ This is a simple web application that encrypts text using the Caesar Cipher encr
 ![How to pic](Img/screenshot1.png)
 2. Press the "Enter" key.
 3. The encrypted text will be displayed in the output area.
-![How to pic2](Img/screenshot2.png)
+![How to pic2](Img/Screenshot2.png)
 
 ## Installation
 
